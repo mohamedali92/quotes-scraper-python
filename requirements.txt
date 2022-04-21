@@ -1,0 +1,7 @@
+requests
+bs4
+httpx
+grequests
+aiohttp
+asyncpg
+viztracer[full]
